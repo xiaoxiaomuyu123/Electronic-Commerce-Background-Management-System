@@ -1,0 +1,21 @@
+ {
+  "name": "electronic-commerce-background-management-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoxiaomuyu123/Electronic-Commerce-Background-Management-System.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoxiaomuyu123/Electronic-Commerce-Background-Management-System/issues"
+  },
+  "homepage": "https://github.com/xiaoxiaomuyu123/Electronic-Commerce-Background-Management-System#readme"
+}
